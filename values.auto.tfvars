@@ -4,7 +4,7 @@ jx_git_url = "https://github.com/rfandini/jx3-gke-gsm"
 # Nama Project di GCP Console
 gcp_project = "xl-devops"
 # Nama Cluser
-# cluster_name = "jx3-rrezaf-cluster"
+cluster_name = "jx3-rrezaf-cluster"
 # Google Secret Manager
 gsm = true
 # Username github yang baru dibuat
